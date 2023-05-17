@@ -1,5 +1,5 @@
 <center>
-<h1> 🏚️Restaurant Management System</h1>
+<h1> Restaurant Management</h1>
 </center>
 <center>
 <a href="Java url">
@@ -114,17 +114,3 @@ This endpoint makes a call to method in FoodService class which is connected to 
 
 
 
----
-
-## JpaRepository extended by Repository class , Repository class is interface Type.
-
-
-I have used JpaRepository as a database to implement CRUD Operations.
-
----
-
-## 📝Project Summary
-
-I have created Restaurant Management System Project.  In this project I have used @OneToOne maping , @ManyToOne mapping and the user will have to SignUp and SignIn first then user can do all operation like.  Can get all Restaurant ,can  Order Foods etc...
-
-![Alt text](https://media.tenor.com/Ra5kgH_k8yMAAAAj/thank-you-thank-you-heart.gif)
